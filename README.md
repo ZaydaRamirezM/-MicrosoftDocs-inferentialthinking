@@ -1,0 +1,2 @@
+# -MicrosoftDocs-inferentialthinking
+ejercicio1
